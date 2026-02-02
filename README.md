@@ -1,6 +1,3 @@
-# databricks-lakehouse-payments
-End-to-end Bronze/Silver/Gold lakehouse pipeline on Databricks CE using synthetic payments data
-
 # Databricks Lakehouse Case Study — Incremental Payments Pipeline
 
 End-to-end **Data Engineering case study** built on **Databricks Community Edition**, demonstrating a production-style **Lakehouse pipeline** with incremental ingestion, deterministic upserts, and analytics-ready outputs.

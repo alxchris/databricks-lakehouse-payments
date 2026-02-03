@@ -13,22 +13,22 @@ Including:
 ---
 
 ### Incremental growth over time (Bronze)
-![Bronze incremental range](docs/screenshots/02_bronze_incremental_date_range.png)
+![Bronze incremental range](02_bronze_incremental_date_range.png)
 
 ---
 
 ### MERGE idempotency (no duplicates)
-![MERGE idempotency](docs/screenshots/03_silver_merge_idempotency.png)
+![MERGE idempotency](03_silver_merge_idempotency.png)
 
 ---
 
 ### Late-arriving updates handled
-![Late arriving updates](docs/screenshots/04_silver_late_arriving_updates_refunded.png)
+![Late arriving updates](04_silver_late_arriving_updates_refunded.png)
 
 ---
 
 ### Gold KPIs updated to new periods
-![Gold KPIs updated](docs/screenshots/05_gold_kpis_updated_2025.png)
+![Gold KPIs updated](05_gold_kpis_updated_2025.png)
 
 ---
 

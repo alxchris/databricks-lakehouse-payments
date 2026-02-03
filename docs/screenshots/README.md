@@ -8,7 +8,7 @@ Including:
 ## 📸 Execution Proof
 
 ### Bronze / Silver / Gold tables created
-![Tables created](docs/screenshots/01_tables_created_bronze_silver_gold.png)
+![Tables created](01_tables_created_bronze_silver_gold.png)
 
 ---
 

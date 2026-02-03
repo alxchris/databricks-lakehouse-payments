@@ -3,7 +3,6 @@
 End-to-end **Data Engineering case study** built on **Databricks Community Edition**, demonstrating a production-style **Lakehouse pipeline** with incremental ingestion, deterministic upserts, and analytics-ready outputs.
 
 This project was developed **in parallel with Databricks Data Engineer Associate preparation**, focusing on real-world patterns rather than isolated labs.
-![Tables created](docs/screenshots/01_tables_created_bronze_silver_gold.png)
 
 ---
 
